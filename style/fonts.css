@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'G-B';
+    src: url('../fonts/gilroy/bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'G-M';
+    src: url('../fonts/gilroy/medium.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'G-E';
+    src: url('../fonts/gilroy/extrabold.ttf');
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'C';
+    src: url('../fonts/chronicle/black.otf');
+    font-weight: 900;
+}
