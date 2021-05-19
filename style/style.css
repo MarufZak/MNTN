@@ -407,7 +407,7 @@ ul {
 .page-third__uptitle {
     font-size: clamp(12px, 1.5vw, 32px);
     letter-spacing: 6px;
-    line-height: 22px;
+    line-height: clamp(16px, 2vw, 28px);
     font-family: "G-E";
     color: var(--uptitle);
     text-transform: uppercase;

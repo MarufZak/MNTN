@@ -16,8 +16,10 @@ document.addEventListener('DOMContentLoaded',function () {
             //     let i = 01;
             //     return `<span class="page__bullet">0${index}</span>`;
             //   },
-            clickable: true
+            clickable: true        
         },
+        parallax: true
+        
     })
 
     var header = document.querySelector('.header');
@@ -55,4 +57,5 @@ document.addEventListener('DOMContentLoaded',function () {
         }
     })
         console.log(swiper.realIndex);
+        
 })
