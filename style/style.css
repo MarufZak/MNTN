@@ -41,6 +41,7 @@ ul {
 .page__slide {
     flex: 1 0 100%;
     position: relative;
+    overflow: hidden;
 }
 
 
@@ -449,8 +450,8 @@ ul {
 .page-third__link {
     color: var(--uptitle);
     text-transform: uppercase;
-    font-size: clamp(12px, 1.5vw , 24px);
-    line-height: clamp(16px, 2vw, 28px);
+    font-size: clamp(12px, 2vw , 22px);
+    line-height: clamp(16px, 2.5vw, 26px);
 }
 
 .page-sec__link i,
